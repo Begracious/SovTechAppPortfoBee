@@ -73,7 +73,7 @@ This section has moved here: [https://facebook.github.io/PortfolioAPP/docs/troub
 
 npm i bootstrap@5.2.0-beta1 this library runs dynamically on VS code.
 
-
-#####Deployed link
+**
+#####Deployment link**
 
 https://splendid-empanada-0c2b54.netlify.app 
